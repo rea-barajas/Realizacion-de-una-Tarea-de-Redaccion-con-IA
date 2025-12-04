@@ -7,19 +7,12 @@ Este documento proporciona una visión completa para desarrolladores, gerentes d
 
 📚 **Tabla de Contenidos**
 
-1.- Características Principales
-2.- Arquitectura del Sistema
-3.- Requisitos del Sistema
-4.- Instalación
-5.- Configuración Inicial
-6.- Uso y Funcionalidades
-7.- Integraciones y API
-8.- Buenas Prácticas
-9.- Solución de Problemas
-10.- Roadmap
-11.- Contribución
-12.- Soporte Técnico
-13.- Licencia
+1. Características Principales
+2. Requisitos del Sistema
+3. Instalación estándar
+4. Integraciones compatibles
+5. Soporte Técnico
+6. Licencia
 
 
 🚀 **Características Principales**
