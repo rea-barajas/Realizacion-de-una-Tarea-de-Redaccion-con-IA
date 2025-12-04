@@ -52,16 +52,16 @@ Recomendado: 10 Gbps para despliegue empresarial a gran escala
 🧭 Guía Rápida — NetGuard Pro
 
   Instalación
-1.- Visita el sitio oficial de NetGuard Solutions y accede a Descargas.
-2.- Selecciona el instalador para tu sistema operativo (Windows, Linux o macOS).
-3.- Descarga y ejecuta el instalador siguiendo las instrucciones en pantalla.
+1. Visita el sitio oficial de NetGuard Solutions y accede a Descargas.
+2. Selecciona el instalador para tu sistema operativo (Windows, Linux o macOS).
+3. Descarga y ejecuta el instalador siguiendo las instrucciones en pantalla.
 
   Configuración Inicial
-1.- Abre NetGuard Pro después de la instalación.
-2.- El asistente de configuración te permitirá:
+1. Abre NetGuard Pro después de la instalación.
+2. El asistente de configuración te permitirá:
     - Configurar tu red manualmente, o
     - Importar un archivo existente (.json, .yaml).
-3.- Crea las credenciales de administrador para asegurar el acceso.
+3. Crea las credenciales de administrador para asegurar el acceso.
 
   Activación
 - Introduce tu clave de licencia o selecciona “Iniciar prueba gratuita” para habilitar 30 días de uso.
